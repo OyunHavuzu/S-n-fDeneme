@@ -1,0 +1,4 @@
+﻿  main.cpp
+  Window.cpp
+c:\users\mbara\source\repos\windowtest\windowtest\window.h(2): fatal error C1083: içerme dosyası açılamıyor: 'SFML\Window.hpp': No such file or directory
+  Kod Üretiliyor...
